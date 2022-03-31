@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#contenedor{
+    width: 1200px;
+    height: 1000px;
+    background-color: crimson;
+    margin: 0.5em auto;
+    padding: 0.5em;
+    text-align: center;
+}
+#header{
+    height: 5%;
+    color: honeydew;
+    background-color: darkmagenta;
+    border-radius: 2em;
+    margin: 1em;
+    box-shadow: 5px 5px 20px 20px
+}
+#nav{
+    height: 5%;
+    background-color: hotpink;
+    border-radius: 2em;
+}
+#contenido{
+    height: 10%;
+    background-color: lawngreen;
+}
+#section{
+    height: 100%;
+    width: 90%;
+    background-color: lightgray;
+}
+.articulo{
+    height: 90%;
+    width: 100%;
+    background-color: orange;
+}
+#aside{
+    height: 100%;
+    width: 100%;
+    background-color: rebeccapurple;
+    border-radius: 2em;
+}
+#footer{
+    height: 20%;
+    background-color: sienna;
+    border-radius: 1em;
+    margin: 1em;
+}
